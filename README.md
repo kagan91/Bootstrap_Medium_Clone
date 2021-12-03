@@ -1,0 +1,1 @@
+# Bootstrap kütüphanesi kullanılarak Medium sitesinin bir benzeri tasarlandı.
